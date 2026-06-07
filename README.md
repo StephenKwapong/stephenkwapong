@@ -2,29 +2,30 @@
 
 🎓 Computing Teacher  
 💻 Aspiring Software Developer  
-🌍 Based in Achiase, Ghana    
+🌍 Based in Kade, Ghana    
 
----
 
-## 🚀 About Me
+
+About Me
 I am a computing teacher with the Ghana Education Service at Akim Nyankomase D/A JHS. I am passionate about technology and education.  
 I am currently building my programming skills and preparing to secure sotware development positions in the education sector and plan to run my own edutech company  
 
 My goal is to use technology to improve education and solve real-world problems in Ghana.
 
----
 
-## 🧠 What I'm Learning
+
+ What I'm Learning
 - Python Programming  
 - Web Development (HTML, CSS, JavaScript)  
 - Problem Solving & Algorithms  
 
----
 
-## 🎯 Career Goals
+
+ Career Goals
 - Become a professional software developer  
 - Build impactful tech solutions in education  
-- Contribute to digital transformation in Ghana  
+- Contribute to digital transformation in Ghana
+- Lecture Computer Science   
 
 ---
 
